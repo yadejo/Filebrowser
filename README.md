@@ -6,7 +6,7 @@ simple class to browse files based on SPL DirectoryIterator and FileInfo classes
 Usages:
 -------
 
-Create a new Filebrowser-instance:
+Create a new Filebrowser-instance
   ```
   $fb = new Filebrowser("path/to/basedir/");
 ```
